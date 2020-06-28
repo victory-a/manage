@@ -239,7 +239,7 @@ nav {
     /* width: 130vw; */
     padding: 3rem 0;
     display: grid;
-    grid-template-columns: repeat(auto-fit, 33rem);
+    grid-template-columns: repeat(auto-fit, 28rem);
     justify-content: center;
     gap: 1rem 3rem;
     margin: 0 auto;
